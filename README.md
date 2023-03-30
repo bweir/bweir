@@ -4,6 +4,8 @@ I work on infrastructure and tools of all shapes and sizes. These days I spent a
 
 Some things I've worked on:
 
+- [BrettOps](https://brettops.io) - a reference architecture for a software delivery ecosystem 
+
 - [LameStation](https://www.lamestation.com/) - a game console you can build.
 
 - [PropellerIDE](https://github.com/parallaxinc/PropellerIDE) - a friendly IDE for the Spin programming language.
